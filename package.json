@@ -1,0 +1,24 @@
+{
+  "name": "test_api_enh",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consuali/test_api_enh.git"
+  },
+  "author": "consuelo fadda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consuali/test_api_enh/issues"
+  },
+  "homepage": "https://github.com/consuali/test_api_enh#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-clima": "^1.7.4",
+    "yelp-fusion": "^3.0.0"
+  }
+}
